@@ -1,0 +1,6 @@
+{
+  "name": "Smart Mining Equipment Monitoring System",
+  "description": "A full-stack MERN industrial platform for real-time monitoring of heavy mining equipment, sensor telemetry, predictive maintenance, and downtime analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
